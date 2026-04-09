@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Metro plex home renovations llc",
+    "phone": "+14059858181",
+    "category": "home remodeler",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Remodel Your OKC Home, Right.",
+      "heroSubline": "Metroplex Home Renovations delivers exceptional craftsmanship and lasting value. Transform your space with our experienced team.",
+      "aboutTitle": "Built on Integrity, Driven by Quality",
+      "aboutText": [
+        "Metroplex Home Renovations started with a simple goal: to provide Oklahoma City homeowners with remodeling services they can trust. We’re a locally owned and operated company, deeply rooted in the OKC community and committed to exceeding expectations on every project.",
+        "Our approach is straightforward: listen to our clients, develop smart solutions, and execute with precision. We believe in open communication, transparent pricing, and a relentless focus on quality. We treat every home as if it were our own, ensuring meticulous attention to detail and lasting results.",
+        "We're proud to be a part of the Oklahoma City community. We actively support local initiatives and strive to build strong relationships with our neighbors. When you choose Metroplex Home Renovations, you're not just hiring a contractor; you're partnering with a team that cares about your home and your community."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled professionals delivering exceptional results, built to last."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees, clear and detailed estimates, so you know what to expect."
+        },
+        {
+          "title": "Dedicated Project Management",
+          "description": "Seamless coordination and communication throughout the entire remodeling process."
+        },
+        {
+          "title": "Locally Focused",
+          "description": "We understand Oklahoma City homes and the unique challenges of our local climate."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Get a free consultation and discover the possibilities for your Oklahoma City home renovation."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Revitalize the heart of your home with a custom kitchen remodel.",
+        "description": "The kitchen is the heart of any home, and a well-designed kitchen can significantly enhance your living space and increase your property value. Metroplex Home Renovations specializes in creating custom kitchens tailored to your specific needs and style. From minor updates to complete overhauls, we handle every aspect of your kitchen remodel with precision and care.\n\nWe start with a thorough consultation to understand your vision, lifestyle, and budget. Our design team will then create a detailed plan that optimizes your space, incorporates your desired features, and reflects your personal taste. Whether you're dreaming of a modern, minimalist kitchen or a cozy, traditional space, we have the expertise to bring your vision to life.\n\nOur services include cabinet replacement or refacing, countertop installation (granite, quartz, marble, and more), backsplash design and installation, flooring upgrades, appliance installation, lighting design, and plumbing adjustments. We use only high-quality materials and work with trusted suppliers to ensure lasting beauty and functionality. We also manage all permits and inspections, so you can relax and enjoy the transformation process.\n\nDealing with Oklahoma's clay soil shift can impact kitchen leveling and structure. We address these issues proactively during remodeling to ensure long-term stability. With Metroplex Home Renovations, your kitchen remodel will be a seamless and stress-free experience.",
+        "process": [
+          "Step 1: Initial Consultation & Design",
+          "Step 2: Material Selection & Budget Approval",
+          "Step 3: Demolition & Construction",
+          "Step 4: Installation & Finishing Touches"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Customized to Your Needs"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical kitchen remodel take?",
+            "answer": "The duration of a kitchen remodel varies depending on the scope of the project. A minor update might take a few weeks, while a complete overhaul could take 2-3 months. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "It's often possible to remain in your home during a kitchen remodel, but it can be disruptive. We'll work with you to minimize inconvenience and create a comfortable living situation during the construction process."
+          },
+          {
+            "question": "What type of countertops do you recommend?",
+            "answer": "The best countertop material depends on your budget, lifestyle, and aesthetic preferences. Granite, quartz, and marble are all popular choices, each with its own unique advantages and disadvantages. We can help you choose the best option for your needs."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a luxurious and functional bathroom retreat with our remodeling services.",
+        "description": "Transform your outdated bathroom into a spa-like oasis with Metroplex Home Renovations. We specialize in creating beautiful and functional bathrooms that meet your unique needs and preferences. Whether you're looking for a simple refresh or a complete renovation, our team has the expertise to deliver exceptional results.\n\nWe begin with a detailed consultation to understand your vision, budget, and lifestyle. Our design team will then create a customized plan that maximizes your space, incorporates your desired features, and reflects your personal style. From modern and minimalist designs to classic and elegant styles, we can bring your dream bathroom to life.\n\nOur services include vanity installation, toilet replacement, shower and tub installation, tile work, flooring upgrades, lighting design, and plumbing adjustments. We use only high-quality materials and work with trusted suppliers to ensure lasting beauty and durability. We also handle all permits and inspections, so you can relax and enjoy the transformation process.\n\nGiven Oklahoma City's tendency for severe weather, moisture control is paramount in bathroom remodels. We use mold-resistant materials and proper ventilation techniques to safeguard your investment against water damage.",
+        "process": [
+          "Step 1: Design Consultation & Planning",
+          "Step 2: Material Selection & Budget Finalization",
+          "Step 3: Demolition & Plumbing/Electrical Work",
+          "Step 4: Fixture Installation & Finishing"
+        ],
+        "benefits": [
+          "Increased Comfort & Relaxation",
+          "Improved Home Value",
+          "Enhanced Functionality",
+          "Personalized Design"
+        ],
+        "faq": [
+          {
+            "question": "How much does a bathroom remodel typically cost?",
+            "answer": "The cost of a bathroom remodel varies greatly depending on the size of the bathroom, the materials used, and the scope of the project. We'll provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "Can you help with small bathroom remodels?",
+            "answer": "Absolutely! We specialize in maximizing space and functionality in small bathrooms. We can suggest creative solutions to make the most of your available area."
+          },
+          {
+            "question": "What are the latest trends in bathroom design?",
+            "answer": "Some of the latest trends include walk-in showers, freestanding tubs, floating vanities, and smart technology integration. We stay up-to-date on the latest trends and can help you incorporate them into your design."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-remodeling",
+        "name": "Whole House Remodeling",
+        "shortDescription": "Transform your entire home with a comprehensive remodeling project.",
+        "description": "Embark on a transformative journey with Metroplex Home Renovations' whole-house remodeling services. We handle projects of all sizes and complexities, from cosmetic updates to complete structural renovations. Whether you're looking to modernize your home, increase its value, or simply create a more comfortable living space, our team has the expertise to deliver exceptional results.\n\nWe start with a comprehensive consultation to understand your vision, lifestyle, and budget. Our design team will then create a detailed plan that addresses your specific needs and goals. We'll work closely with you throughout the entire process, ensuring clear communication and transparency at every step.\n\nOur services include kitchen remodeling, bathroom remodeling, flooring upgrades, painting, electrical work, plumbing adjustments, and structural modifications. We use only high-quality materials and work with trusted suppliers to ensure lasting beauty and durability. We also manage all permits and inspections, so you can relax and enjoy the transformation process.\n\nOklahoma City's diverse architectural styles require a nuanced approach to whole-house remodeling. We respect the unique character of each home while implementing modern upgrades.",
+        "process": [
+          "Step 1: Comprehensive Consultation & Planning",
+          "Step 2: Design Development & Budget Approval",
+          "Step 3: Permitting & Pre-Construction",
+          "Step 4: Construction & Project Management"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Personalized Living Space"
+        ],
+        "faq": [
+          {
+            "question": "How long does a whole house remodel typically take?",
+            "answer": "The duration of a whole house remodel depends on the scope of the project and the complexity of the design. We'll provide a detailed timeline after the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during a whole house remodel?",
+            "answer": "It's highly recommended to move out during a whole house remodel, as it can be disruptive and inconvenient to live in the home during construction. We can help you find temporary housing if needed."
+          },
+          {
+            "question": "How do I prepare for a whole house remodel?",
+            "answer": "The best way to prepare for a whole house remodel is to declutter your home, pack up your belongings, and make arrangements for temporary housing. We'll provide a detailed checklist to help you prepare."
+          }
+        ]
+      },
+      {
+        "slug": "basement-remodeling",
+        "name": "Basement Remodeling",
+        "shortDescription": "Transform your unfinished basement into a functional and valuable living space.",
+        "description": "Unlock the hidden potential of your basement with Metroplex Home Renovations. We specialize in transforming unfinished basements into functional and valuable living spaces that add value to your home and enhance your lifestyle. Whether you're looking to create a home theater, a game room, a home office, or an extra bedroom, our team has the expertise to deliver exceptional results.\n\nWe begin with a thorough assessment of your basement to identify any potential issues, such as moisture problems or structural concerns. Our design team will then create a customized plan that addresses your specific needs and goals. We'll work closely with you throughout the entire process, ensuring clear communication and transparency at every step.\n\nOur services include framing, insulation, drywall installation, electrical work, plumbing adjustments, flooring installation, and painting. We use only high-quality materials and work with trusted suppliers to ensure lasting beauty and durability. We also manage all permits and inspections, so you can relax and enjoy the transformation process.\n\nOklahoma's climate and soil can present unique challenges for basement remodeling. We address potential moisture issues proactively with proper waterproofing and ventilation techniques.",
+        "process": [
+          "Step 1: Basement Assessment & Design",
+          "Step 2: Waterproofing & Structural Work",
+          "Step 3: Framing, Electrical & Plumbing",
+          "Step 4: Finishing & Fixture Installation"
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Enhanced Home Value",
+          "Improved Functionality",
+          "Customized to Your Needs"
+        ],
+        "faq": [
+          {
+            "question": "Is it worth remodeling my basement?",
+            "answer": "Yes, remodeling your basement can significantly increase your home's value and provide valuable living space that you can enjoy for years to come."
+          },
+          {
+            "question": "How do I prevent moisture problems in my basement?",
+            "answer": "Proper waterproofing and ventilation are essential for preventing moisture problems in your basement. We can assess your basement and recommend the best solutions for your specific situation."
+          },
+          {
+            "question": "What are some popular basement remodeling ideas?",
+            "answer": "Some popular basement remodeling ideas include home theaters, game rooms, home offices, extra bedrooms, and wet bars. We can help you design a basement that meets your specific needs and preferences."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-installation",
+        "name": "Flooring Installation",
+        "shortDescription": "Upgrade your home with expert flooring installation services.",
+        "description": "New flooring can dramatically transform the look and feel of your home. Metroplex Home Renovations offers expert flooring installation services for a wide variety of flooring materials, including hardwood, tile, laminate, vinyl, and carpet. Whether you're looking to update a single room or your entire home, our team has the expertise to deliver exceptional results.\n\nWe begin with a consultation to understand your style preferences, budget, and lifestyle. Our team will then help you choose the best flooring material for your needs. We'll provide a detailed estimate and schedule the installation at your convenience.\n\nOur flooring installation services include subfloor preparation, material installation, and finishing touches. We use only high-quality materials and work with trusted suppliers to ensure lasting beauty and durability. We also guarantee our workmanship, so you can be confident in the quality of our work.\n\nOklahoma's fluctuating humidity can affect certain flooring types. We guide homeowners in selecting materials that withstand local conditions and employ proper installation techniques to minimize issues like warping or cracking.",
+        "process": [
+          "Step 1: Consultation & Material Selection",
+          "Step 2: Subfloor Preparation",
+          "Step 3: Flooring Installation",
+          "Step 4: Finishing & Clean Up"
+        ],
+        "benefits": [
+          "Enhanced Aesthetics",
+          "Increased Home Value",
+          "Improved Comfort",
+          "Durable & Long-Lasting"
+        ],
+        "faq": [
+          {
+            "question": "What type of flooring is best for my home?",
+            "answer": "The best type of flooring depends on your style preferences, budget, and lifestyle. We can help you choose the best option for your specific needs."
+          },
+          {
+            "question": "How long does it take to install new flooring?",
+            "answer": "The duration of a flooring installation depends on the size of the area and the type of flooring being installed. We'll provide a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "How do I care for my new flooring?",
+            "answer": "The care instructions for your new flooring will vary depending on the type of material. We'll provide detailed care instructions after the installation."
+          }
+        ]
+      },
+      {
+        "slug": "painting-services",
+        "name": "Painting Services",
+        "shortDescription": "Refresh your home with professional interior and exterior painting services.",
+        "description": "A fresh coat of paint can revitalize your home's interior and exterior, boosting curb appeal and creating a welcoming atmosphere. Metroplex Home Renovations offers professional painting services for residential properties in Oklahoma City and the surrounding areas. Whether you're looking to update a single room or repaint your entire home, our team has the expertise to deliver exceptional results.\n\nWe begin with a thorough preparation process, including surface cleaning, patching, and priming. We use only high-quality paints and materials to ensure a smooth, even finish that lasts for years. Our team is meticulous and detail-oriented, ensuring clean lines and flawless execution.\n\nOur painting services include interior painting, exterior painting, trim painting, and drywall repair. We also offer color consultation services to help you choose the perfect colors for your home.\n\nOklahoma's extreme weather conditions demand durable paint and meticulous application. We use weather-resistant paints and proper techniques to protect your home from the elements.",
+        "process": [
+          "Step 1: Surface Preparation",
+          "Step 2: Priming",
+          "Step 3: Painting",
+          "Step 4: Clean Up"
+        ],
+        "benefits": [
+          "Enhanced Aesthetics",
+          "Increased Home Value",
+          "Protection from the Elements",
+          "Improved Air Quality"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to paint a room?",
+            "answer": "The duration of a painting project depends on the size of the room and the complexity of the project. We'll provide a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "What type of paint should I use?",
+            "answer": "The best type of paint depends on the surface being painted and your personal preferences. We can help you choose the best option for your needs."
+          },
+          {
+            "question": "How do I prepare my home for painting?",
+            "answer": "We'll provide detailed instructions on how to prepare your home for painting, including removing furniture and covering surfaces."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Metro Plex Home Renovations LLC is proud to provide top-quality home remodeling services to Oklahoma City residents. From kitchen and bathroom renovations to whole-house remodels, we have the expertise and experience to transform your home into the space of your dreams. We understand the unique architectural styles and needs of homeowners in OKC and tailor our services to meet your specific requirements.\n\nWe are committed to providing exceptional customer service and craftsmanship. Our team of skilled professionals will work closely with you throughout the entire remodeling process, from initial design to final completion, ensuring your satisfaction every step of the way. Let Metro Plex Home Renovations LLC help you create a home you'll love for years to come.",
+        "localContext": "Oklahoma City is a vibrant and growing metropolitan area with a diverse population and a rich history. Known for its friendly atmosphere and affordable cost of living, OKC offers a great quality of life for families and individuals alike.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Metro Plex Home Renovations LLC is dedicated to serving the residents of Edmond, Oklahoma, with exceptional home remodeling services. Whether you're looking to update your kitchen, renovate your bathroom, or completely transform your home, we're here to help. We understand the specific needs and preferences of Edmond homeowners and are committed to providing personalized solutions that meet your unique style and budget.\n\nOur team of experienced professionals is committed to delivering outstanding results. We use only the highest-quality materials and employ the latest techniques to ensure your remodeling project is completed to your exact specifications. With Metro Plex Home Renovations LLC, you can rest assured that your home is in good hands.",
+        "localContext": "Edmond is a thriving suburban city known for its excellent schools, family-friendly atmosphere, and beautiful parks. It's a popular choice for those seeking a peaceful and convenient place to call home.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Metro Plex Home Renovations LLC proudly offers comprehensive home remodeling services to the residents of Norman, Oklahoma. From small updates to complete renovations, we have the expertise to handle any project, big or small. We understand the unique characteristics of homes in Norman and tailor our services to meet your specific needs and preferences.\n\nWe are committed to providing exceptional customer service and quality workmanship. Our team will work closely with you throughout the entire remodeling process, ensuring your complete satisfaction. Let Metro Plex Home Renovations LLC help you create the home of your dreams in Norman.",
+        "localContext": "Norman is a vibrant college town, home to the University of Oklahoma. It offers a diverse range of cultural and recreational opportunities, making it an attractive place to live and work.",
+        "nearbyAreas": [
+          "Moore",
+          "Oklahoma City",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Metro Plex Home Renovations LLC is pleased to provide home remodeling services to the residents of Moore, Oklahoma. We understand the unique needs of homeowners in Moore and are committed to providing personalized solutions that meet your style and budget. Whether you're looking to update your kitchen, renovate your bathroom, or add an addition to your home, we're here to help.\n\nOur team of skilled professionals is dedicated to delivering exceptional results. We use only the highest-quality materials and employ the latest techniques to ensure your remodeling project is completed to your satisfaction. With Metro Plex Home Renovations LLC, you can trust us to transform your home into the space of your dreams.",
+        "localContext": "Moore is a family-oriented community known for its strong sense of community and excellent schools. It's a great place to raise a family and enjoy a comfortable lifestyle.",
+        "nearbyAreas": [
+          "Norman",
+          "Oklahoma City",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Metro Plex Home Renovations LLC extends its expert home remodeling services to the community of Yukon, Oklahoma. We understand the importance of creating a comfortable and stylish living space, and we're dedicated to helping Yukon homeowners achieve their remodeling goals. From kitchen upgrades to bathroom renovations, we offer a wide range of services to enhance your home's beauty and functionality.\n\nOur team of experienced professionals is committed to providing exceptional craftsmanship and customer service. We'll work closely with you to understand your vision and bring it to life with precision and care. Trust Metro Plex Home Renovations LLC to transform your Yukon home into the space you've always dreamed of.",
+        "localContext": "Yukon is a growing city with a strong sense of community and a rich agricultural heritage. It offers a blend of small-town charm and modern amenities, making it an attractive place to live and raise a family.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Metro Plex Home Renovations LLC is proud to offer its home remodeling expertise to the residents of Mustang, Oklahoma. We understand the unique needs and preferences of Mustang homeowners and are committed to providing personalized solutions that meet your individual style and budget. Whether you're looking to update your kitchen, renovate your bathroom, or add an addition to your home, we're here to help.\n\nOur team of skilled professionals is dedicated to delivering exceptional results. We use only the highest-quality materials and employ the latest techniques to ensure your remodeling project is completed to your satisfaction. With Metro Plex Home Renovations LLC, you can trust us to transform your home into the space of your dreams.",
+        "localContext": "Mustang is a family-friendly community known for its excellent schools and safe neighborhoods. It offers a peaceful and comfortable lifestyle, making it a popular choice for families and individuals alike.",
+        "nearbyAreas": [
+          "Yukon",
+          "Oklahoma City",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Choctaw",
+        "slug": "choctaw-ok",
+        "state": "OK",
+        "content": "Metro Plex Home Renovations LLC is delighted to provide home remodeling services to the residents of Choctaw, Oklahoma. We understand the importance of creating a comfortable and functional living space, and we're dedicated to helping Choctaw homeowners achieve their remodeling goals. From kitchen updates to bathroom renovations, we offer a wide range of services to enhance your home's beauty and value.\n\nOur team of experienced professionals is committed to providing exceptional craftsmanship and customer service. We'll work closely with you to understand your vision and bring it to life with precision and care. Trust Metro Plex Home Renovations LLC to transform your Choctaw home into the space you've always dreamed of.",
+        "localContext": "Choctaw is a close-knit community with a strong sense of pride and a rich history. It offers a peaceful and friendly atmosphere, making it a great place to raise a family and enjoy a relaxed lifestyle.",
+        "nearbyAreas": [
+          "Midwest City",
+          "Oklahoma City",
+          "Harrah"
+        ]
+      },
+      {
+        "city": "Midwest City",
+        "slug": "midwest-city-ok",
+        "state": "OK",
+        "content": "Metro Plex Home Renovations LLC is committed to providing top-notch home remodeling services to the residents of Midwest City, Oklahoma. We understand the diverse needs of homeowners in Midwest City and strive to deliver personalized solutions that meet your unique style and budget. From kitchen and bathroom renovations to whole-house remodels, we have the expertise and experience to transform your home into the space of your dreams.\n\nWe are dedicated to providing exceptional customer service and quality workmanship. Our team of skilled professionals will work closely with you throughout the entire remodeling process, ensuring your satisfaction every step of the way. Let Metro Plex Home Renovations LLC help you create a home you'll love for years to come in Midwest City.",
+        "localContext": "Midwest City is a vibrant and diverse community with a strong connection to Tinker Air Force Base. It offers a wide range of amenities and services, making it a convenient and attractive place to live.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Del City",
+          "Choctaw"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Metroplex Home Renovations did an amazing job remodeling our kitchen! They were professional, efficient, and the quality of their work is outstanding. We now have the kitchen of our dreams. Highly recommended!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Bathroom Remodel",
+        "text": "We hired Metroplex to remodel our outdated bathroom, and we're very happy with the results. They were able to transform our small bathroom into a functional and stylish space. There were a couple of minor hiccups, but they addressed them quickly and professionally.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Flooring Installation",
+        "text": "Metroplex installed new hardwood floors throughout our entire house, and we couldn't be happier. The installation was seamless, and the floors look absolutely beautiful. The team was courteous and professional, and they cleaned up thoroughly after the job was done.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Basement Remodel",
+        "text": "Metroplex transformed our unfinished basement into a fantastic home theater. They handled everything from framing and electrical work to drywall and flooring. The finished product is exactly what we wanted, and we're thrilled with the extra living space.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Jennifer P.",
+        "rating": 4,
+        "service": "Painting Services",
+        "text": "Metroplex painted the exterior of our house, and it looks fantastic. They did a thorough job of preparing the surfaces, and the paint job is flawless. We've already received compliments from our neighbors. The only reason I didn't give them 5 stars is because the project took a little longer than expected.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Thomas S.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "From start to finish, Metroplex Home Renovations provided exceptional service. Our kitchen remodel was a complex project, involving structural changes and custom cabinetry. They handled everything with expertise and professionalism, and the end result is stunning. Highly recommend their services.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "OKC Home Remodeler | Metroplex Renovations",
+        "description": "Metroplex Home Renovations: Trusted home remodeler in Oklahoma City. Kitchens, bathrooms, basements & more. Get a free quote!"
+      },
+      "about": {
+        "title": "About Metroplex Home Renovations",
+        "description": "Learn about Metroplex Home Renovations, your local Oklahoma City remodeling experts. Discover our values, commitment, and expertise."
+      },
+      "services": {
+        "title": "Metroplex Home Renovations Services",
+        "description": "Explore our comprehensive home remodeling services in Oklahoma City. Kitchens, bathrooms, flooring, painting, and more."
+      },
+      "contact": {
+        "title": "Contact Metroplex Home Renovations",
+        "description": "Contact Metroplex Home Renovations for a free consultation. Serving Oklahoma City and surrounding areas. Call +14059858181."
+      },
+      "reviews": {
+        "title": "Metroplex Home Renovations Reviews",
+        "description": "Read testimonials from satisfied Metroplex Home Renovations customers in Oklahoma City. See our quality workmanship and commitment."
+      },
+      "service-areas": {
+        "title": "Service Areas",
+        "description": "Metroplex Home Renovations serves Oklahoma City and surrounding areas. Find out if we service your neighborhood today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "whole-house-remodeling": "/images/service-whole-house-remodeling.webp",
+      "basement-remodeling": "/images/service-basement-remodeling.webp",
+      "flooring-installation": "/images/service-flooring-installation.webp",
+      "painting-services": "/images/service-painting-services.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-remodeling": {
+        "src": "/images/service-whole-house-remodeling.webp",
+        "srcset": "/images/service-whole-house-remodeling-400w.webp 400w, /images/service-whole-house-remodeling-800w.webp 800w, /images/service-whole-house-remodeling-1200w.webp 1200w, /images/service-whole-house-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-remodeling": {
+        "src": "/images/service-basement-remodeling.webp",
+        "srcset": "/images/service-basement-remodeling-400w.webp 400w, /images/service-basement-remodeling-800w.webp 800w, /images/service-basement-remodeling-1200w.webp 1200w, /images/service-basement-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-installation": {
+        "src": "/images/service-flooring-installation.webp",
+        "srcset": "/images/service-flooring-installation-400w.webp 400w, /images/service-flooring-installation-800w.webp 800w, /images/service-flooring-installation-1200w.webp 1200w, /images/service-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "painting-services": {
+        "src": "/images/service-painting-services.webp",
+        "srcset": "/images/service-painting-services-400w.webp 400w, /images/service-painting-services-800w.webp 800w, /images/service-painting-services-1200w.webp 1200w, /images/service-painting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
